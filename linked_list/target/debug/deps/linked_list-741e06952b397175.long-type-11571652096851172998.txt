@@ -1,1 +1,0 @@
-fn(DoublyLinkedList<_>) -> DoublyLinkedList<_> {<DoublyLinkedList<_> as From<DoublyLinkedList<_>>>::from}
